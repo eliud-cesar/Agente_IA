@@ -1,0 +1,2 @@
+PARA INSTALAR GOOGLE GEMINI Y LAS VARIABLES DE ENTORNO 
+pip install -U google-generativeai python-dotenv
